@@ -1,2 +1,1 @@
-# cpi-
-cpi(Console Pop It)++ is an implementation of the Pop It toy in cmd using ANSI Escape Codes
+<h1 align="center"><code>cpi - Console Pop It</code></h1>
